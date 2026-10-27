@@ -1,0 +1,15 @@
+{
+  "name": "My Custom Providers Repo",
+  "description": "Custom streaming sources for Zangetsu",
+  "sources": [https://netmirror.studio/]
+    {
+      "id": "netmirror",
+      "name": "NetMirror",
+      "version": "1.0.0",
+      "type": "movie",
+      "lang": "en",
+      "file": "providers/netmirror.js",
+      "nsfw": false
+    }
+  ]
+}
